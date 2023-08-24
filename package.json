@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "db-food": "json-server --watch db_food.json"
+    "server": "json-server --watch ./db/db_food.json"
   },
   "author": "",
   "license": "ISC",
