@@ -26,6 +26,7 @@
         }
     ],
     "cardapios": [
+        "hiokisushi": [
             {
                 "id": 120801,
                 "restaurante": "hiokisushi",
@@ -65,8 +66,10 @@
                 "descricao": "É uma variedade de sushi que não contém arroz, pelo que não pode ser incluído no mesmo grupo dos anteriores. “Mesmo que as pessoas o listem como sushi, o sashimi é um tipo separado de alimento. É uma fatia de peixe cru sem mais, sem arroz”, responde o dono do restaurante japonês Banzai.",
                 "picture": "https://imgs.search.brave.com/exiZf8Z0XcRfYs9PGPZEVP5ro15z2HzUFeVpSrTmdfU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZGVsaXdheS5jb20u/YnIvYmxvZy9iYXNl/Lzg5NC9kODUvMDQy/L3RpcG9zLWRlLXNh/c2hpbWkuanBn",
                 "price": 19.99
-            },
-            {
+            }
+        ],
+        "ladolcevitatrattoria": [
+        {
                 "id": 130801,
                 "restaurante": "ladolcevitatrattoria",
                 "nome": "Bruschetta",
@@ -105,7 +108,9 @@
                 "descricao": "É um patrimônio imaterial de Bolonha. A tradição manda levar Pancetta, ragu de carne, aipo, cebola, vinho branco, leite, azeite. No menu da Mamma, ela é executada exatamente dessa forma e ainda gratinada no forno. Honrando as origens italianas, a Mamma tem muito orgulho desse prato.",
                 "picture": "https://imgs.search.brave.com/OX9qhqe412Yj-vwqyUkHejQ19mLjzAUcmjtYDbo7_N4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wMi50/cnJzZi5jb20vaW1h/Z2UvZmdldC9jZi83/NzQvMC9pbWFnZXMu/dGVycmEuY29tLzIw/MjMvMDUvMDYvMjU3/MTMxNDUzLWxhc2Fu/aGEtYS1ib2xvbmhl/c2EuanBn",
                 "price": 19.99
-            },
+            }
+        ],
+        "restauranteconcórdia": [
             {
                 "id": 140801,
                 "restaurante": "restauranteconcordia",
@@ -146,5 +151,7 @@
                 "picture": "https://imgs.search.brave.com/we-iK7sISktX2NiORXOgi_ZJhNb3qDGFsr0y2I7bjis/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vZmFybTUu/c3RhdGljZmxpY2ty/LmNvbS80NDQxLzM2/ODI3NjkwMjAwXzI3/OWNmNzlhMTdfei5q/cGc_cmVzaXplPTY0/MCw0Mjcmc3NsPTE",
                 "price": 19.99
             }
+        ]
+            
         ]
 }
