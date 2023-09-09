@@ -32,105 +32,105 @@
             "nome": "Maki",
             "descricao": "É o que todo mundo normalmente conhece como sushi. É o rolinho de arroz com um pequeno pedaço de peixe, vegetal ou fruta dentro e envolto por um pedaço de alga preta seca, chamada nori. Existe uma variedade maior e mais gorda, conhecida como Futomaki. Existe também o contrário, uma variedade muito estreita onde só cabe um ingrediente, são os Hosomaki, o mais comum é encontrá-los recheados com pepino, salmão ou atum.",
             "picture": "https://imgs.search.brave.com/tbkn62spghc46nc82znokOgAF6EOH-sjlnW4tlMpiKs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTMw/NzU2OTQyMy9waG90/by9laG9tYWtpLXN1/c2hpLXJvbGxub3Jp/bWFraS10by1lYXQt/b24tc2V0c3VidW4t/ZGF5LmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz04X2tCdjh1/UDVTSGs4OEVhaHNk/cDRYOGltUDcyZnRS/U21vbldpOXRfTnBv/PQ",
-            "price": "19,99"
+            "price": 19.99
         },
         {
             "id": "1",
             "nome": "Uramaki",
             "descricao": "Refere-se a algo que está de cabeça para baixo. É assim que são conhecidos os makis onde o arroz aparece por fora e seus ingredientes são embrulhados dentro de um pedaço de alga seca (nori). Geralmente é temperado com gergelim ou ovas pequenas por fora.",
             "picture": "https://www.djapa.com.br/wp-content/uploads/2021/07/uramaki-1.jpg",
-            "price": "19,99"
+            "price": 19.99
         },
         {
             "id": "1",
             "nome": "Temaki",
             "descricao": "É uma grande variedade onde o protagonista é mais uma vez a alga nori. É enrolado à mão e tem o formato de um cone onde ficam os ingredientes. Em alguns restaurantes você pode fazer seu próprio pãozinho, como fajitas mexicanas.",
             "picture": "https://imgs.search.brave.com/XBXy8CZx99Owqe5BmM41YbULAhe3BZ_nAB-eQmT2NRE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Zm9vZHJlcHVibGlj/LmNvbS9pbWcvZ2Fs/bGVyeS93aGF0LWlz/LXRlbWFraS1hbmQt/aG93LWRvLXlvdS1l/YXQtaXQvaW50cm8t/MTY4NzM0MjYxMy5q/cGc",
-            "price": "19,99"
+            "price": 19.99
         },
         {
             "id": "1",
             "nome": "Nigiri",
             "descricao": "Neste caso a alga não existe (embora por vezes seja colocada como uma fita para segurar os ingredientes maiores ou mais instáveis). Em cima de um bolinho de arroz alongado, coloque uma tira de peixe, marisco, tortilha ou outros ingredientes.",
             "picture": "https://imgs.search.brave.com/6XZz06GybltYTh6bt2gp2SEvdW98l0CdYAs7BF1BTfo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/eXVtbXltdW1teWtp/dGNoZW4uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzEw/L3NodXR0ZXJzdG9j/a18xNjAwOTI4NTE4/LTEuanBn",
-            "price": "19,99"
+            "price": 19.99
         },
         {
             "id": "1",
             "nome": "Sashimi",
             "descricao": "É uma variedade de sushi que não contém arroz, pelo que não pode ser incluído no mesmo grupo dos anteriores. “Mesmo que as pessoas o listem como sushi, o sashimi é um tipo separado de alimento. É uma fatia de peixe cru sem mais, sem arroz”, responde o dono do restaurante japonês Banzai.",
             "picture": "https://imgs.search.brave.com/exiZf8Z0XcRfYs9PGPZEVP5ro15z2HzUFeVpSrTmdfU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZGVsaXdheS5jb20u/YnIvYmxvZy9iYXNl/Lzg5NC9kODUvMDQy/L3RpcG9zLWRlLXNh/c2hpbWkuanBn",
-            "price": "19,99"
+            "price": 19.99
         },
         {
             "id": "2",
             "nome": "Bruschetta",
             "descricao": "É um antepasto italiano que também pode ser servido como aperitivo ou lanche. Feito à base de pão, geralmente é tostado em grelha com azeite e alho e tem muitas variações de recheio.",
             "picture": "https://s2-receitas.glbimg.com/EeQlVEsJt5yfDXJz-ht8CJfCWMI=/0x0:1380x1000/984x0/smart/filters:strip_icc()/s.glbimg.com/et/gs/f/original/2015/08/25/bruschetta.jpg",
-            "price": "19,99"
+            "price": 19.99
         },
         {
             "id": "2",
             "nome": "Pizza",
             "descricao": "é uma preparação culinária que consiste em um disco de massa fermentada de farinha de trigo, coberto com molho de tomate e os ingredientes variados que normalmente incluem algum tipo de queijo, carnes preparadas ou defumadas e ervas, normalmente orégano ou manjericão, tudo assado em forno.",
             "picture": "https://imgs.search.brave.com/kdga5qV8GAUIGs7KjCtyIb2yeihEGRMNPxgvlJenias/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/d29ybGRmb29kc3Rv/cnkuY28udWsvd3At/Y29udGVudC91cGxv/YWRzLzIwMjEvMDYv/MjAyMTA1MTVfMTcx/NTI2LmpwZw",
-            "price": "19,99"
+            "price": 19.99
         },
         {
             "id": "2",
             "nome": "Nhoque",
             "descricao": "É uma receita deliciosa. De acordo com muitos historiadores o prato foi criado no século 17 e vem sendo consumido desde então. Além disso, essa massa possui uma tradição muito curiosa chamada: nhoque da sorte.",
             "picture": "https://imgs.search.brave.com/jqGhWtDET28yb0KWQJ6Xnpk7TRzlAJ2RLBhveyyc4us/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZXN0YWRhby5jb20u/YnIvcmVzaXplci9i/bjNYLWhCQkVUZzU1/aHl0RjhtNVpVb0dG/MkE9LzcyMHg1MDMv/ZmlsdGVyczpmb3Jt/YXQoanBnKTpxdWFs/aXR5KDgwKS9jbG91/ZGZyb250LXVzLWVh/c3QtMS5pbWFnZXMu/YXJjcHVibGlzaGlu/Zy5jb20vZXN0YWRh/by9NREZUNFZHV0ZC/TDMzSzVGSjYzS0xM/NElKNC5qcGc",
-            "price": "19,99"
+            "price": 19.99
         },
         {
             "id": "2",
             "nome": "Fettuccine",
             "descricao": "Se encaixa perfeitamente nisso, um molho que ao passar do anos foi ganhando modificações, pois quando foi inventado em 1908 pelo Alfredo Di Lelio, a receita era a base de manteiga e queijo parmesão, mas nos dias de hoje você encontra receitas com muito creme de leite, bacon, camarão, frango e outras variações.",
             "picture": "https://imgs.search.brave.com/o1dW7kqjvqd6ffjGkd3LzTYuxRtzbbkuPNxyYQ2Hd1g/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yZWNl/aXRpbmhhcy5jb20u/YnIvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDEvRmV0dHVj/Y2luZS1BbGZyZWRv/LUFsbHJlY2lwZXIu/anBn",
-            "price": "19,99"
+            "price": 19.99
         },
         {
             "id": "2",
             "nome": "Lasanha",
             "descricao": "É um patrimônio imaterial de Bolonha. A tradição manda levar Pancetta, ragu de carne, aipo, cebola, vinho branco, leite, azeite. No menu da Mamma, ela é executada exatamente dessa forma e ainda gratinada no forno. Honrando as origens italianas, a Mamma tem muito orgulho desse prato.",
             "picture": "https://imgs.search.brave.com/OX9qhqe412Yj-vwqyUkHejQ19mLjzAUcmjtYDbo7_N4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wMi50/cnJzZi5jb20vaW1h/Z2UvZmdldC9jZi83/NzQvMC9pbWFnZXMu/dGVycmEuY29tLzIw/MjMvMDUvMDYvMjU3/MTMxNDUzLWxhc2Fu/aGEtYS1ib2xvbmhl/c2EuanBn",
-            "price": "19,99"
+            "price": 19.99
         },
         {
             "id": "3",
             "nome": "Cocido madrileño",
             "descricao": "é um prato típico da culinária da Espanha, consiste num cozido cujo ingrediente principal é o grão-de-bico, sendo os secundários, ainda que com grande protagonismo, diversas verduras e carnes. A sua origem é humilde e judaica, tendo sido originalmente consumido pelas classes mais baixas. É um dos cozidos mais simples da cozinha espanhola.",
             "picture": "https://imgs.search.brave.com/VPHJhewXc7H6fYxTMscMrwabJ5Sq-HjILqBlPGuu8Sw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cGF1bGluYWNvY2lu/YS5uZXQvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjMvMDMvcmVj/ZXRhLWNvY2lkby1t/YWRyaWxlbiVDQyU4/M28tODAweDUzMy5q/cGc",
-            "price": "19,99"
+            "price": 19.99
         },
         {
             "id": "3",
             "nome": "Fabada asturiana",
             "descricao": "Fabada asturiana ou também apenas fabada, é um prato tradicional da região das Astúrias, na Espanha. Ao contrário do que o nome pode sugerir, trata-se de um prato preparado com feijão branco seco (Phaseolus vulgaris) e não com favas (tratando-se, por isso, de uma feijoada)",
             "picture": "https://imgs.search.brave.com/kdga5qV8GAUIGs7KjCtyIb2yeihEGRMNPxgvlJenias/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/d29ybGRmb29kc3Rv/cnkuY28udWsvd3At/Y29udGVudC91cGxv/YWRzLzIwMjEvMDYv/MjAyMTA1MTVfMTcx/NTI2LmpwZw",
-            "price": "19,99"
+            "price": 19.99
         },
         {
             "id": "3",
             "nome": "Gazpacho andaluz",
             "descricao": "É basicamente um caldo dos vegetais abundantes da região sem suas cascas.",
             "picture": "https://imgs.search.brave.com/9MwomZQ75Otcyacr3m2w-zLdkQHQocAaamdzd7CuoSc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cmVjZXRhc2RlcmVj/aHVwZXRlLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8w/NS9HYXpwYWNoby1h/bmRhbHV6LUFqdXN0/ZXMtZGUtcmVjaHVw/ZXRlLTItMTIwMHg4/MjguanBn",
-            "price": "19,99"
+            "price": 19.99
         },
         {
             "id": "3",
             "nome": "Paella valenciana",
             "descricao": "É risoto espanhol saborosíssimo,   amarelinho com açafrão. Leva lagosta, camarões gigantes, lulas, vieiras, lagostins, mariscos pretos, frango porco ou coelho com, pimentões, vagem e ervilha fresca. Mas não necessariamente todos estes crustáceos, devem estar presentes, a de hoje, por exemplo é feita com frango, camarão, lula e mariscos.",
             "picture": "https://imgs.search.brave.com/BfpqRnhZw0mEZUTVY-eAVn_CGMxQ8RaqXdBrtOp_ZmM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGFyaW5nZ291cm1l/dC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTYvMDMvUGFl/bGxhLTEtMTAyNHg2/ODIuanBn",
-            "price": "19,99"
+            "price": 19.99
         },
         {
             "id": "3",
             "nome": "Tortilla de patatas",
             "descricao": "É uma espécie de omelete, feita com ovos e batatas fritas. É comum levar cebolas, dependendo da região onde é feita.",
             "picture": "https://imgs.search.brave.com/we-iK7sISktX2NiORXOgi_ZJhNb3qDGFsr0y2I7bjis/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vZmFybTUu/c3RhdGljZmxpY2ty/LmNvbS80NDQxLzM2/ODI3NjkwMjAwXzI3/OWNmNzlhMTdfei5q/cGc_cmVzaXplPTY0/MCw0Mjcmc3NsPTE",
-            "price": "19,99"
+            "price": 19.99
         }
     ]
 }
